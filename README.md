@@ -1,1 +1,1 @@
-# LCJourney
+# lc_journey
